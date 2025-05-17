@@ -26,7 +26,7 @@ Install the required library using pip:
 
 ```bash
 pip install cryptography
-
+```
 
 ---
 
